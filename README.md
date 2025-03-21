@@ -43,7 +43,7 @@ The competition includes multiple sports, such as:
 ## 📊 Data & Analytics  
 
 - Match results and player statistics will be **logged and analyzed** for performance insights.  
-- **Power BI/Tableau** dashboards may be used for **visualizing key competition metrics**.  
+-  dashboards may be used for **visualizing key competition metrics**.  
 
 ## 🚀 Getting Started  
 
